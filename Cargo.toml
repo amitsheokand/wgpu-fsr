@@ -8,7 +8,7 @@ edition = "2021"
 crate-type = ["cdylib", "rlib"]
 
 [[bin]]
-name = "webgpu-fsr"
+name = "wgpu_fsr"
 path = "src/main.rs"
 
 [dependencies]
